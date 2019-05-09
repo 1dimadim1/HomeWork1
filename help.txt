@@ -1,0 +1,8 @@
+add wind(quatrion)
+git clone
+git checkout -b [name_of_your_new_branch]
+git branch
+git status 
+git add file_name
+git commit -m "aaa"
+git push
